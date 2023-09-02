@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on BlurLock App</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on BlurLock App</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Dmytro Chernenko</copyright>
+    <lastBuildDate>Sat, 02 Sep 2023 13:06:38 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apple macOS App</title>
+      <link>/tags/apple-macos-app/</link>
+      <pubDate>Sat, 02 Sep 2023 13:06:38 +0800</pubDate>
+      
+      <guid>/tags/apple-macos-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Appstore</title>
+      <link>/tags/appstore/</link>
+      <pubDate>Sat, 02 Sep 2023 13:06:38 +0800</pubDate>
+      
+      <guid>/tags/appstore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BlurLock</title>
+      <link>/tags/blurlock/</link>
+      <pubDate>Sat, 02 Sep 2023 13:06:38 +0800</pubDate>
+      
+      <guid>/tags/blurlock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macOS</title>
+      <link>/tags/macos/</link>
+      <pubDate>Sat, 02 Sep 2023 13:06:38 +0800</pubDate>
+      
+      <guid>/tags/macos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>/tags/release/</link>
+      <pubDate>Sat, 02 Sep 2023 13:06:38 +0800</pubDate>
+      
+      <guid>/tags/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>v1.34</title>
+      <link>/tags/v1.34/</link>
+      <pubDate>Sat, 02 Sep 2023 13:06:38 +0800</pubDate>
+      
+      <guid>/tags/v1.34/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
